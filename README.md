@@ -1,16 +1,15 @@
-# teczo_unity
+# 🏢 Teczo – Condominium Management System  
 
-A new Flutter project.
+Teczo is a **condominium management system** built with **Flutter** to provide an all-in-one digital solution for managing residential and commercial condominium operations.  
+It empowers administrators and residents with tools for **communication, billing, maintenance tracking, and facility management** in a modern, responsive UI.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features  
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 👥 **User Management** – Owners, tenants, and administrators  
+- 💳 **Billing & Payments** – Track dues, invoices, and receipts  
+- 🛠️ **Maintenance Requests** – Submit and resolve service issues  
+- 📅 **Facility Booking** – Reserve shared amenities (gym, hall, etc.)  
+- 📢 **Announcements & Notifications** – Stay updated with community news  
+- 🌐 **Cross-platform** – Works on Android, iOS, and Web with one codebase  
